@@ -1,0 +1,2 @@
+# maijial.github.io
+blog
